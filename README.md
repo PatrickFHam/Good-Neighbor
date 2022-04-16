@@ -56,7 +56,7 @@ Visit our site on Heroku or to install on your local machine, please following t
 Provide instructions and examples for use. Include screenshots as needed.
 
 ## Live URL
-https://the-good-neighbor-shelf.herokuapp.com/
+https://pure-cliffs-09110.herokuapp.com/
 
 ## Credits
 Jeanie Uy, Emmanuela Jean-Baptiste, Patrick Ham, Ross McWey
