@@ -51,9 +51,13 @@ Visit our site on Heroku or to install on your local machine, please following t
 
 
 
-## Usage
+## Usage and Screenshots
 
-Provide instructions and examples for use. Include screenshots as needed.
+![Landing page](/public/images/screenshots/Readme1.png?raw=true "Landing page")
+![LogIn page](/public/images/screenshots/Readme2.png?raw=true "LogIn page")
+![The shelf](/public/images/screenshots/Readme3.png?raw=true "The Shelf")
+![Welcome page](/public/images/screenshots/Readme4.png?raw=true "Welcome Page")
+![About us page](/public/images/screenshots/Readme5.png?raw=true "About Us Page")
 
 ## Live URL
 https://pure-cliffs-09110.herokuapp.com/
